@@ -1,4 +1,4 @@
-name: Deploy Docsify to GitHub Pages
+name: Deploy Docsify 
 
 on:
   push:
